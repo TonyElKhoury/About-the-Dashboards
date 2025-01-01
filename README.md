@@ -5,6 +5,6 @@ Want to See the Dashboards? If you’re curious to explore the dashboards themse
 
 [Sales Dashboard](https://github.com/TonyElKhoury/Sales-Dashboard/blob/main/Sales%20Dashboard.mp4)
 
-[Banking Dashboard]([https://github.com/TonyElKhoury/Banking-Dashboard/tree/main](https://github.com/TonyElKhoury/Banking-Dashboard/blob/main/Banking%20Dashboard.mp4)
+[Banking Dashboard](https://github.com/TonyElKhoury/Banking-Dashboard/tree/main](https://github.com/TonyElKhoury/Banking-Dashboard/blob/main/Banking%20Dashboard.mp4)
 
 
